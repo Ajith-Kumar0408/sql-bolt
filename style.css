@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+}
+h1{
+    
+    margin-top: 20%;
+    color: white;
+    padding: 0;
+    font-size: 100px;
+    text-align: center;
+}
+p{
+    margin-left: 20%;
+    color: rgb(233, 37, 37);
+    font-size: 70px;
+    text-align: center;
+}
